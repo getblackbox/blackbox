@@ -1,2 +1,1 @@
 # blackbox
-Machine Learning Potentials
