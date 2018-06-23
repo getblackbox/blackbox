@@ -5,9 +5,9 @@
 
 > An implementation of machine learning potentials.
 
-* Simple and lightweight
-* Flexible and powerful
-* Powered by tensorflow
+* :cake: Simple and lightweight
+* :rocket: Flexible and powerful
+* :zap: Powered by tensorflow
 
 [GitHub](https://github.com/getblackbox/blackbox)
 [Get Started](#blackbox)
